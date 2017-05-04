@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forge_demo",
+  "name": "James's test mod for demo",
+  "description": "Idk man",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["James"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
